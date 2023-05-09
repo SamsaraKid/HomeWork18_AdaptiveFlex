@@ -4,7 +4,7 @@
 
 body{
     background-color: #5788b7;
-    font-family: Corbel, SansSerif;
+    font-family: Corbel, Serif;
     margin: 0;
     font-size: 1em;
 }
@@ -63,7 +63,7 @@ a, button{
 }
 
 button{
-    font-family: Corbel, SansSerif;
+    font-family: Corbel, Serif;
     font-size: 1em;
 }
 
