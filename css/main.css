@@ -48,7 +48,7 @@ header ul{
 }
 
 
-a{
+a, button{
     text-decoration: none;
     color: black;
     font-weight: bolder;
@@ -57,9 +57,12 @@ a{
     padding: 5px 16px;
     display: inline-block;
     text-align: center;
+    background-color: unset;
+    border: none;
+    /*padding: 0;*/
 }
 
-a:hover{
+a:hover, button:hover{
     background-color: rgba(246, 205, 255, 0.21);
 }
 
