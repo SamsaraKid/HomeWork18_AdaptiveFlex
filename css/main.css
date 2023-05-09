@@ -4,8 +4,9 @@
 
 body{
     background-color: #5788b7;
-    font-family: Corbel, Serif;
+    font-family: Corbel, SansSerif;
     margin: 0;
+    font-size: 1em;
 }
 
 main{
@@ -16,11 +17,11 @@ main{
 }
 
 main h2{
-  margin-top: -50px;
-  padding-top: 70px;
+    margin-top: -50px;
+    padding-top: 70px;
 }
 .s1:first-child{
-  margin-top: 50px;
+    margin-top: 50px;
 }
 
 
@@ -59,7 +60,11 @@ a, button{
     text-align: center;
     background-color: unset;
     border: none;
-    /*padding: 0;*/
+}
+
+button{
+    font-family: Corbel, SansSerif;
+    font-size: 1em;
 }
 
 a:hover, button:hover{
